@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#Eclipse data
+.cproject
+.project
+.settings
+/Release/
