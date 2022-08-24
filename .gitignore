@@ -36,3 +36,9 @@
 .project
 .settings
 /Release/
+
+#CMake data
+CMakeCache.txt
+*.cmake
+/CMakeFiles/
+Makefile
